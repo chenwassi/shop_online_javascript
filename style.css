@@ -1,0 +1,28 @@
+input{
+    outline: 0 ;border-width: 0 0 2px;width:80%;font-weight: 600;font-size:15px
+}
+.container{
+    height: 100px;
+}
+.section-left{
+    height: 20px;
+}
+.section-right img{
+    position: relative;
+    left: 90px;
+    width: 500px;
+
+}
+
+h1{
+    font-family: var(--third-font-family, Playfair Display);
+}
+.price{
+    font-weight: bold;
+    
+}
+.imgOne{
+    width: 250px;
+    height: 250px;
+}
+
